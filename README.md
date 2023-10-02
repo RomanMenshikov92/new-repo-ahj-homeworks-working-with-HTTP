@@ -1,6 +1,10 @@
 # Домашнее задание к занятию "7. Работа с HTTP"
 
+# [Frontend(https://github.com/RomanMenshikov92/new-repo-ahj-homeworks-working-with-HTTP)] + # [Backend(https://github.com/RomanMenshikov92/new-repo-ahj-homeworks-working-with-HTTP/tree/main/backend)]
+
 ![CI](https://github.com/RomanMenshikov92/new-repo-ahj-homeworks-working-with-HTTP/actions/workflows/web.yml/badge.svg)
+
+[![Build status](https://ci.appveyor.com/api/projects/status/cld09q2v1pqkroh5?svg=true)](https://ci.appveyor.com/project/RomanMenshikov92/new-repo-ahj-homeworks-working-with-http)
 
 Правила сдачи задания:
 
